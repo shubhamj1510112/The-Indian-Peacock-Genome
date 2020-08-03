@@ -8,4 +8,4 @@ Work published in a reputed peer-reviewed international journal "Frontiers in Ge
 <p align="justify"> Complete article can be accessed at the journal website (link: https://www.frontiersin.org/articles/10.3389/fgene.2018.00392/full#:~:text=Genomic%20Features%20of%20Indian%20Peacock&text=BUSCO%20scores%20assessed%20the%20genome,BUSCOs%20(Supplementary%20Data%20S3).&text=A%20total%20of%20306%20miRNAs,using%20this%20approach%20in%20peacock). The same article is also provided in this repositoary as a pdf file (complete_article.pdf). </p>
 
 ## Citation 
-<p align="justify">Shubham K. Jaiswal,, Ankit Gupta, Rituja Saxena, Vishnu PK Prasoodanan, Ashok K. Sharma, Parul Mittal, Ankita Roy, Aaron Shafer, Nagarjun Vijay, and Vineet K. Sharma. "Genome sequence of peacock reveals the peculiar case of a glittering bird." Frontiers in genetics 9 (2018): 392.</p>
+<p align="justify">Shubham K. Jaiswal, Abhisek Chakraborty, Shruti Mahajan, Sudhir Kumar, and Vineet K. Sharma. "The genome sequence of Aloe vera reveals adaptive evolution of drought tolerance mechanisms." bioRxiv (2020). </p>
